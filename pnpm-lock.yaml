@@ -12,8 +12,8 @@ importers:
   .:
     dependencies:
       '@niconicozha/thank-you-tweet-button-001':
-        specifier: ^1.0.0
-        version: 1.0.0
+        specifier: ^1.1.0
+        version: 1.1.0
       thank-you-tweet-button-001:
         specifier: link:../thank-you-tweet-button-001
         version: link:../thank-you-tweet-button-001
@@ -97,8 +97,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@niconicozha/thank-you-tweet-button-001@1.0.0':
-    resolution: {integrity: sha512-NuWBFJQfLFuQBseU5KO6v9nrmUZyXpxlWhmbCFfi4DBoSnzrM1/g/2Ela5F+gIWJPGzaXZ6e2trxVLoEmvxWSg==}
+  '@niconicozha/thank-you-tweet-button-001@1.1.0':
+    resolution: {integrity: sha512-NB5pk8kTrjtYL6NJjp7OzIS5mAzQ8kpU9X2Bnn2Ppo/5S+QzBeEsy92bHDATONJpq+8GOCUA7nW5LUtAg0itxg==}
 
   '@parcel/bundler-default@2.15.2':
     resolution: {integrity: sha512-k0psV7OZYs1g6jcJweBjINVZaVTcfFr6PuCQr28biZ85qbc70f5pWzCzY963+dF3XO/QwTzDABZsJUiDf5jPfQ==}
@@ -868,7 +868,7 @@ snapshots:
   '@msgpackr-extract/msgpackr-extract-win32-x64@3.0.3':
     optional: true
 
-  '@niconicozha/thank-you-tweet-button-001@1.0.0': {}
+  '@niconicozha/thank-you-tweet-button-001@1.1.0': {}
 
   '@parcel/bundler-default@2.15.2(@parcel/core@2.15.2(@swc/helpers@0.5.17))':
     dependencies:
