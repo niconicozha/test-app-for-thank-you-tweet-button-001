@@ -16,7 +16,7 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
-    "@niconicozha/thank-you-tweet-button-001": "^1.1.0",
+    "@niconicozha/thank-you-tweet-button-001": "^2.0.0",
     "thank-you-tweet-button-001": "link:C:/Users/Dfwx/AppData/Local/pnpm/global/5/node_modules/thank-you-tweet-button-001"
   }
 }

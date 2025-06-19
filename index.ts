@@ -1,3 +1,3 @@
 import { tweetButton } from "@niconicozha/thank-you-tweet-button-001";
 
-document.body.appendChild(tweetButton());
+document.body.appendChild(tweetButton(5, 17));
