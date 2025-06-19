@@ -1,0 +1,22 @@
+{
+  "name": "test-app-for-thank-you-tweet-button-001",
+  "version": "1.0.0",
+  "description": "",
+  "source": "./index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "parcel": "^2.15.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@niconicozha/thank-you-tweet-button-001": "^1.0.0",
+    "thank-you-tweet-button-001": "link:C:/Users/Dfwx/AppData/Local/pnpm/global/5/node_modules/thank-you-tweet-button-001"
+  }
+}
